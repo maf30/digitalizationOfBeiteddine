@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/digitalizationOfBeiteddine/static/css/main.9f57f3a6.css",
+    "main.js": "/digitalizationOfBeiteddine/static/js/main.2a1bad68.js",
+    "static/media/backgroundImage.png": "/digitalizationOfBeiteddine/static/media/backgroundImage.33293f6c14288f56473d.png",
+    "static/media/FuturaPTBook.otf": "/digitalizationOfBeiteddine/static/media/FuturaPTBook.bc305be0a88a100ad836.otf",
+    "index.html": "/digitalizationOfBeiteddine/index.html",
+    "main.9f57f3a6.css.map": "/digitalizationOfBeiteddine/static/css/main.9f57f3a6.css.map",
+    "main.2a1bad68.js.map": "/digitalizationOfBeiteddine/static/js/main.2a1bad68.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f57f3a6.css",
+    "static/js/main.2a1bad68.js"
+  ]
+}
